@@ -1,0 +1,15 @@
+<view class="my-title">
+  <!-- logo -->
+  <navigator class='logo'>
+    <image class='logo-img' src='../../images/logo.png'></image>
+  </navigator>
+  <!-- 搜索 -->
+  <input type="text" />
+  <view class='search-icon'>
+    <icon type="search"></icon>
+  </view>
+  <!-- 用户 -->
+  <view class='user-icon'>
+    <icon type="info"></icon>
+  </view>
+</view>
